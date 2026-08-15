@@ -1,0 +1,7 @@
+{
+  "name": "Nino Web & App Builder",
+  "description": "A powerful prompt-based builder to generate, customize, brand, deploy, sell, and monetize complete websites and mobile applications.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
